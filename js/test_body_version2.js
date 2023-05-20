@@ -322,7 +322,7 @@ testbody.innerHTML =`
 
 										</div>
 								
-										<footer id="footer" class="section-bg" style="z-index:100;position:fixed;bottom:0;">
+										<footer id="footer" class="section-bg" style="z-index:100;position:relative;bottom:0;">
 										<div class="footer-top">
 										  <div class="container">
 											<div class="row">
