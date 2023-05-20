@@ -170,7 +170,7 @@ header .ham-con .set-con > ul li { display: flex; justify-content: space-between
  
 	 header .top .logo {width:86px;}
 
-	 	 #wrap {padding-top:48px;}
+	 	 /* #wrap {padding-top:48px;} */
 
     header .our-con {display: none !important;}
     .min-show {display: block;}
