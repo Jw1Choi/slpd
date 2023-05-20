@@ -1,5 +1,9 @@
 $(function() {
     var targetDate = new Date();
+    var today=new Date();
+    var year = today.getFullYear();
+    var month = today.getMonth()+1;
+    var day = today.getDate();
 
     targetDate.setDate(targetDate.getDate() + 1);
     targetDate.setHours(0, 0, 0, 0);
@@ -22,9 +26,10 @@ $(function() {
     
       // Output the result in an element with id="countdown"
       
-      document.getElementById("countdown").innerHTML = hours + "시 " + minutes + "분 " + seconds + "초 남음 ";
+      // document.getElementById("countdown").innerHTML = hours + "시 " + minutes + "분 " + seconds + "초 남음 ";
       document.getElementById("countdown1").innerHTML = hours + "시 " + minutes + "분 " + seconds + "초 남음 ";
-      
+      document.getElementById("day").innerHTML = year + ". " + month + ". " + day;
+      document.getElementById("day1").innerHTML = year + "년 " + month + "월 " + day + "일 기준";
       // If the countdown is finished, start a new countdown for the next midnight
       if (distance < 0) {
         clearInterval(x);
