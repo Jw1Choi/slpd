@@ -164,11 +164,11 @@ testbody.innerHTML =`
 					<div class="wow fadeIn bbackg" style="width:100%"> 
 			
 
-							 <section  id="main_intro" class="backg" style="text-align: center;background:transparent" >
+							 <section  id="main_intro" class="backg" style="text-align: center;z-index:0" >
 							 <video playsinline autoplay loop muted id="myVideo pv" style="position:fixed;top:0;left:0;right:0;min-width: 100%; min-height: 100%;z-index:5;background-size:cover;filter:brightness(0.5)" >
 							 <source src="../img/intro_vid1.mp4" type="video/mp4" >
 							 </video>
-							 <div class="img-text md-top3 lg-top3 top-space " style="font-size:14px;z-index:10;background:transparent">
+							 <div class="img-text md-top3 lg-top3 top-space " style="font-size:14px;z-index:10;">
 					
  
 							 <div class="container">
