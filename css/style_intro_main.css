@@ -1244,8 +1244,8 @@ html, body {
 
   -webkit-text-size-adjust: 100%;
   color: #333; 
-  background:transparent;
-  z-index:-0;
+  background:#000;
+  z-index:-100;
 }
 
 html {
