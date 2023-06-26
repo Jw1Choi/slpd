@@ -93,7 +93,7 @@ idx.innerHTML = `
                        나잇살이<br>자꾸만 생기는<br>핵심 원인<br><span style="padding-left:50px;"></span></h2>
                    
                     <div class="col-md-12 col-6">
-                        <img src="img/content1.png">
+                        <img src="./img/content1.png">
                     </div>
                 </div><br><br>
             </div>
