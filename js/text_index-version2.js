@@ -12,7 +12,7 @@ idx.innerHTML = `
                         접수마감 | <span id="day"></span> ( <span id="countdown"></span>)
                     </span>
                 </a> <br><br><br>
-                <!-- <img src="./img/sleep.png" style="width:220px;margin:20px;"> -->
+                <!-- <img src="../img/sleep.png" style="width:220px;margin:20px;"> -->
                 <p class="top wow fadeInUp">SLEEP & DIET<br>뭘해도 안빠지는<br>나잇살로 걱정이라면?<br>
             </p><br>
                 <h1 class="wow fadeInUp">나잇살 맞춤<br>수면 감량 분석<br>무료 상담 이벤트</h1>
@@ -93,7 +93,7 @@ idx.innerHTML = `
                        나잇살이<br>자꾸만 생기는<br>핵심 원인<br><span style="padding-left:50px;"></span></h2>
                    
                     <div class="col-md-12 col-6">
-                        <img src="./img/content1.png">
+                        <img src="../img/content1.png">
                     </div>
                 </div><br><br>
             </div>
@@ -114,7 +114,7 @@ idx.innerHTML = `
                 <li class="wow fadeInUp">
                     <div class="title">나잇살을 방치하면 안되는 이유?</div><br>
                    
-                        <img class="wow fadeInLeft" src="./img/belly.jpeg" style="width:95%;max-width:400px;"><br><br>
+                        <img class="wow fadeInLeft" src="../img/belly.jpeg" style="width:95%;max-width:400px;"><br><br>
                         
                         
                     <div class="txt">
@@ -127,7 +127,7 @@ idx.innerHTML = `
                 <li class="wow fadeInUp">
                 <div class="title">그렇다고 굶어서 빼려고 한다면?</div><br>
                
-                    <img class="wow fadeInLeft" src="./img/food.png" style="width:95%;max-width:400px;"><br><br>
+                    <img class="wow fadeInLeft" src="../img/food.png" style="width:95%;max-width:400px;"><br><br>
                     
                     
                 <div class="txt">
@@ -141,7 +141,7 @@ idx.innerHTML = `
             <li class="wow fadeInUp">
             <div class="title">뭘 해도 안빠진다면<br>감량 방식을 바꾸셔야 합니다.</div><br>
            
-                <img class="wow fadeInLeft" src="./img/work.png" style="width:95%;max-width:400px;"><br><br>
+                <img class="wow fadeInLeft" src="../img/work.png" style="width:95%;max-width:400px;"><br><br>
                 
                 
             <div class="txt">
@@ -153,7 +153,7 @@ idx.innerHTML = `
         </li>
                 <!-- <li class="wow fadeInUp">
                     <div class="title">식단 조절이 힘들고<br>야식을 멈출 수 없다면?</div><br>
-                    <img class="wow fadeInRight" src="./img/chic.png" style="width:95%;max-width:400px;margin-bottom:20px;" >
+                    <img class="wow fadeInRight" src="../img/chic.png" style="width:95%;max-width:400px;margin-bottom:20px;" >
                     <div class="txt">
                         - 아무리 좋은 식단과 운동도<br>&ensp;&nbsp;<span class="bottom:0;">끓어오르는 식욕을 멈추지 못하면 소용이 없습니다.</span><br><br>
                         - 감량을 포기하게 만드는 참기 힘든 식욕은<br>&ensp;&nbsp;<span class="bottom:0;"><u>생활 습관에서 답을 찾아야 합니다.</u></span><br><br>
@@ -171,7 +171,7 @@ idx.innerHTML = `
         <div class="inner">
             <div class="box">
                 <h3 style="line-height:1.4">나잇살 감량이 편해지는<br><span>빠른 감량 노하우를 배워가세요.</span></h3>
-                <img src="./img/sleep_product.png" style="width:200px;">
+                <img src="../img/sleep_product.png" style="width:200px;">
                 <h3 style="line-height:1.4">SLEEP & DIET<br><span>무료 수면 감량 분석</span></h3>
                 <p class="p-text" style="font-size:17px;">
                     식단과 운동을 하기 힘들거나<br>감량이 어려우신 분들을 위해<br><span class="blink" style="font-size:17px;"><br>생활 습관 및 최대 감량치 분석<br>전화 상담을 무료로 제공합니다.<br><br>(신청자 한정)</span>
@@ -201,7 +201,7 @@ idx.innerHTML = `
                                나잇살 쉽게 빼는<br><span>감량 방법 무료로 알려드려요</span></h2>
                            
                             <div class="col-md-12 col-6">
-                                <img src="./img/content3.png">
+                                <img src="../img/content3.png">
                             </div>
                         </div><br><br>
                     </div>
@@ -224,7 +224,7 @@ idx.innerHTML = `
             <ul class="inner">
                 <li class="wow fadeInUp">
                     <div class="title">아무리 좋은 식단이라도<br>야식을 멈출 수 없다면?</div><br>
-                    <img class="wow fadeInRight" src="./img/chic.png" style="width:95%;max-width:400px;margin-bottom:20px;" >
+                    <img class="wow fadeInRight" src="../img/chic.png" style="width:95%;max-width:400px;margin-bottom:20px;" >
                     <div class="txt">
                         - 아무리 좋은 식단과 운동도<br>&ensp;&nbsp;<span class="bottom:0;">끓어오르는 식욕을 먼저 멈추지 못하면 효과가 없습니다.</span><br><br>
                         - 식단과 운동의 최대 효과를 내고 싶다면<br>&ensp;&nbsp;<span class="bottom:0;"><u>먼저 생활 습관부터 바꿔보세요.</u></span><br><br>
@@ -240,7 +240,7 @@ idx.innerHTML = `
             <div class="inner">
                 <div class="box">
                     <h3 style="line-height:1.4">감량이 막막하다면<br><span>생활 습관을 교정해보세요.</span></h3>
-                    <img src="./img/sleep_product.png" style="width:200px;">
+                    <img src="../img/sleep_product.png" style="width:200px;">
                     <h3 style="line-height:1.4">SLEEP & DIET<br><span>무료 수면 감량 분석</span></h3>
                     <p class="p-text" style="font-size:17px;">
                         식단과 운동을 하기 힘들거나<br>감량이 어려우신 분들을 위해<br><span class="blink" style="font-size:17px;"><br>생활 습관 및 최대 감량치 분석<br>전화 상담을 무료로 제공합니다.<br><br>(신청자 한정)</span>
@@ -267,7 +267,7 @@ idx.innerHTML = `
             <ul class="inner">
                 <li class="wow fadeInUp">
                     <div class="title">여러분의 생활 습관을 체크하여<br>감량 관리가 쉬워지도록</div><br>
-                    <img class="wow fadeInRight" src="./img/sleep2.png" style="width:95%;max-width:400px;margin-bottom:20px;" >
+                    <img class="wow fadeInRight" src="../img/sleep2.png" style="width:95%;max-width:400px;margin-bottom:20px;" >
                     <div class="txt">
                         - 수면 감량 전문가의 1:1 맞춤 상담을 통해<br>&ensp;&nbsp;<span class="bottom:0;"><u>잘못된 생활 습관을 바로잡아</u><br>&ensp;&nbsp;<u>수면 중 다이어트 효과를 높여드립니다.</u></span><br><br>
                        
@@ -286,7 +286,7 @@ idx.innerHTML = `
 
                 <li class="wow fadeInUp">
                     <div class="title">식약처 인증된 성분으로<br>건강하고 효과있게</div><br>
-                    <img class="wow fadeInRight" src="./img/gmp-ffood.png" style="width:95%;max-width:400px;margin-bottom:20px;" >
+                    <img class="wow fadeInRight" src="../img/gmp-ffood.png" style="width:95%;max-width:400px;margin-bottom:20px;" >
                     <div class="txt">
                         - 수면의 질을 높이고 감량 효과에 도움이 될 수 있는<br>&ensp;&nbsp;<span class="bottom:0;"><u>식약처 인증 성분을 활용해</u><br>&ensp;&nbsp;<u>목표 감량에 도움이 될 수 있도록 도와드립니다.</u></span><br><br>
                        
