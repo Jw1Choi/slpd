@@ -84,7 +84,7 @@ function maxLengthCheck(object){
 }
  
  function hoa(){ 
-        alert("빠르게 전화로 도움 드리겠습니다.\n여러분의 감량에 도움이 될 수 있도록\n도와드리니 전화를 꼭 받아주세요.");
+        alert("신청 감사합니다.\n\n작성하신 이메일로\n무료 온라인 검사 링크를\n보내드리겠습니다.");
         $(window).scrollTop(0);
         window.location.href = './complete.html';
  }
