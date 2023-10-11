@@ -50,7 +50,7 @@ $(document).ready(function(){
         if(error == false){
            // Disable submit button just after the form processed 1st time successfully.
           
-           $('#form_e11').prop("action", "https://docs.google.com/forms/u/0/d/e/1FAIpQLSdp1JmS-CqKl-ZLqGJnFTdcs01pYCIc8lFxq4li3Ag-Tr8NRA/formResponse");
+           $('#form_e11').prop("action", "https://docs.google.com/forms/u/0/d/e/1FAIpQLSft7U385wB5QxBIMu8d5BSGOgChLDpVScxTagL6bGqVFk2r_Q/formResponse");
            $('#send_message').attr({'disabled' : 'true', 'value' : '전송 중입니다' });
            
             

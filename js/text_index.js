@@ -20,7 +20,7 @@ idx.innerHTML = `
                     <tr>
                         <th><!--<i class="fa fa-user" aria-hidden="true"></i>-->이름</th>
                         <td>
-                            <input type='text' name='entry.583978956' id='name' class="form-control" placeholder="성함" maxlength="4">
+                            <input type='text' name='entry.2127463362' id='name' class="form-control" placeholder="성함" maxlength="4">
                         </td>
                     </tr>
                   
@@ -29,7 +29,7 @@ idx.innerHTML = `
           <tr>
             <th><!--<i class="fa fa-phone" aria-hidden="true"></i>-->이메일</th>
             <td>
-                <input type='text' name='entry.576088086' id='email' class="form-control" placeholder="이메일 주소">
+                <input type='text' name='entry.1764179401' id='email' class="form-control" placeholder="이메일 주소">
             </td>
         </tr>      
                    <!-- <tr>
