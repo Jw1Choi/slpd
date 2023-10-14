@@ -150,9 +150,10 @@ button.active.focus, button.active:focus, button.focus, button:active.focus, but
 
 /* main image */
 .main {
-    background:url('../img/bg006.png') no-repeat;
+    /* background:url('../img/bg006.png') no-repeat; */
     background-size: cover;
     background-position: center bottom;
+    background-color: #444444;
     height: auto;
     padding: 8vh 0;
     color: #fff;
