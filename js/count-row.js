@@ -29,6 +29,7 @@ $(function() {
     document.getElementById("countdown").innerHTML = hours + "시 " + minutes + "분 " + seconds + "초 남음 ";
     document.getElementById("day1").innerHTML = year + ". " + month + ". " + day;
     document.getElementById("countdown1").innerHTML = hours + "시 " + minutes + "분 " + seconds + "초 남음 ";
+    document.getElementById("day2").innerHTML = year + "년 " + month + "월 " + day + "일 기준 ";
     document.getElementById("day3").innerHTML = year + "년 " + month + "월 " + day + "일 기준 ";
     document.getElementById("countdown3").innerHTML = hours + "시 " + minutes + "분 " + seconds + "초 남음 ";
     // If the countdown is finished, start a new countdown for the next midnight
