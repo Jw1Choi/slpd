@@ -150,10 +150,10 @@ button.active.focus, button.active:focus, button.focus, button:active.focus, but
 
 /* main image */
 .main {
-    /* background:url('../img/bg006.png') no-repeat; */
+    /* background:url('../img/') no-repeat; */
     background-size: cover;
     background-position: center bottom;
-    background-color: #444444;
+    background-color: #fff;
     height: auto;
     padding: 8vh 0;
     color: #fff;
@@ -163,7 +163,7 @@ button.active.focus, button.active:focus, button.focus, button:active.focus, but
     font-size: 32px;
     margin-top: 0px;
     margin-bottom: 0;
-    color: yellow;
+    color: #fff;
 }
 .main .title {
     position: relative;
