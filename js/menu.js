@@ -9,7 +9,7 @@ menu.innerHTML = `
     
     </a>
     <div class="menu-btn">
-        <button class="Event_Menu"><a href="#fm-box" class="scroll blink">무료 온라인 설문</a></button>
+        <button class="Event_Menu"><a href="#fm-box" class="scroll blink">무료 감량치 분석</a></button>
        <!--<button class="total_menu"><img src="img/hamburger.svg" style="width:17px"></button>-->
     </div>
 </nav>
